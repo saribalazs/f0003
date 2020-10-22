@@ -1,3 +1,3 @@
-vezetéknév = input('Sári ')
+Vezetéknév = input('Sári ')
 Keresztnév = input('Balázs ')
-print('Önnek', vezetéknév, 'vezetékneve.')
+print('Önnek', Vezetéknév, 'vezetékneve.')
