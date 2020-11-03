@@ -1,5 +1,0 @@
-Vezetéknév = input('Sári ')
-Keresztnév = input('Balázs ')
-print('Önnek', Vezetéknév, 'a vezetékneve.')
-print('Önnek', Keresztnév, 'a kersztneve')
-print('A te neved',Vezetéknév, Keresztnév,.')
